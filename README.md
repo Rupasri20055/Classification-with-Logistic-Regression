@@ -1,5 +1,7 @@
 # Classification-with-Logistic-Regression
+
 Task 4: Classification with Logistic Regression
+
  About this Task:
 Hey! In this task, I worked on the famous Titanic dataset to build a binary classification model using Logistic Regression.
 The main goal was to predict whether a passenger survived (1) or not (0) based on their details like age, fare, class, etc.
